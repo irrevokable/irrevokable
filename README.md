@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @irrevokable
+- 👋 Hi, I’m Hema 
 - 👀 I’m interested in Embedded Systems and Machine Learning
-- 🌱 I’m currently learning Electrical and Electronics Engineering
-- 💞️ I’m looking to collaborate on Web Development projects and Machine Learning 
-- 📫 How to reach me hp22priya@gmail.com
+- 🌱 I’m currently learning Wed Development and Machine Learning
+- 💞️ I’m looking to collaborate on Web Development projects and Machine Learning projects
+- 📫 How to reach me 
 
 <!---
 irrevokable/irrevokable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
